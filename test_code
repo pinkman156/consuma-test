@@ -1,0 +1,5 @@
+def connect_to_db():
+    # Ideally, the bot should flag this hardcoded secret
+    password = "secret_password_123"
+    print("Connecting to database with " + password)
+
